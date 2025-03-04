@@ -20,4 +20,4 @@ StudentID: 22024546
 ![get_user_profilse.png](src/main/resources/img/adminlogin.png)
 
 ## Database
-![db.png](src/main/resources/img/db.png)
+![db.png](src/main/resources/img/db2.png)
