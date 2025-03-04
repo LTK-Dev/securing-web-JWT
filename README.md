@@ -33,12 +33,12 @@ StudentID: 22024546
 
 ### ADMIN CAN access PUT /auth/accounts/{id}
 ![get_user_profile.png](src/main/resources/img/adminupdate.png)
-![get_user_profile.png](src/main/resources/img/check.png)
-![get_user_profile.png](src/main/resources/img/db1.png)
-![get_user_profile.png](src/main/resources/img/dbcheck.png)
 
 ### ADMIN CAN access DEL /auth/accounts/{id}
 ![get_user_profile.png](src/main/resources/img/admindel.png)
+![get_user_profile.png](src/main/resources/img/check.png)
+![get_user_profile.png](src/main/resources/img/db1.png)
+![get_user_profile.png](src/main/resources/img/dbcheck.png)
 
 ## Database
 ![db.png](src/main/resources/img/db1.png)
